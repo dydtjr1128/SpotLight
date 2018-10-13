@@ -5,8 +5,19 @@ SpotLight-SearchModule using Keyboard hooking
 
 - Ctrl+Space 키를 입력 시 네이버 검색 연동
 
-![image](https://user-images.githubusercontent.com/19161231/47703307-2bd43280-dc63-11e8-96d8-965e896ca514.png)
+</br>
+</br>
 
+![image](https://user-images.githubusercontent.com/19161231/47703378-72c22800-dc63-11e8-9028-aede98bda660.png)
+
+</p>
+↑ Drag
+</p>
+
+![image](https://user-images.githubusercontent.com/19161231/47703307-2bd43280-dc63-11e8-96d8-965e896ca514.png)
+</p>
+↑ Ctrl+Space
+</p>
 
 </br> 
 <a href="mailto:dydtjr1994@gmail.com" target="_blank">
