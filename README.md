@@ -7,16 +7,19 @@ SpotLight-SearchModule using Keyboard hooking
 
 </br>
 </br>
+
+1. ↓ Drag
 <kbd>
   <img src="https://user-images.githubusercontent.com/19161231/47703378-72c22800-dc63-11e8-9028-aede98bda660.png">
 </kbd>
 </p>
-↑ Drag
+
 </p>
 
+2. ↓ Ctrl+Space
 ![image](https://user-images.githubusercontent.com/19161231/47703307-2bd43280-dc63-11e8-96d8-965e896ca514.png)
 </p>
-↑ Ctrl+Space
+
 </p>
 
 </br> 
