@@ -8,14 +8,14 @@ SpotLight-SearchModule using Keyboard hooking
 </br>
 
 <p>
-  <div>1. ↓ Drag</div></br>
+  <div>1. ↓ Drag & Ctrl+Space</div></br>
   <kbd>
     <img src="https://user-images.githubusercontent.com/19161231/47703378-72c22800-dc63-11e8-9028-aede98bda660.png">
   </kbd>
 </p>
 
 <p>
-  <div>2. ↓ Ctrl+Space</div></br>
+  <div>2. ↓ Get search results</div></br>
   <kbd>
     <img src="https://user-images.githubusercontent.com/19161231/47703307-2bd43280-dc63-11e8-96d8-965e896ca514.png">
   </kbd>
