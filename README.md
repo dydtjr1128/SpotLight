@@ -3,7 +3,7 @@
 SpotLight-SearchModule using Keyboard hooking
 
 
-- Ctrl+Space 키를 입력 시 네이버 검색 연동
+- Ctrl+Space 키를 입력 시 네이버 검색 페이지로 이동
 
 </br>
 
