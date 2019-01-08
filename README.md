@@ -1,9 +1,10 @@
 # SpotLight
 
-SpotLight-SearchModule using Keyboard hooking
+* `SpotLight-SearchModule` using Keyboard hooking
 
+* 텍스트를 드래그 하고 Ctrl+Space 키를 입력 시 네이버에서 검색한 페이지로 이동
 
-- Ctrl+Space 키를 입력 시 네이버 검색 페이지로 이동
+* 브라우저에 네이버 url 쿼리를 넘겨주는 방식
 
 </br>
 
