@@ -22,6 +22,10 @@
   </kbd>
 </p>
 
+### Demo
+
+![GIF](https://user-images.githubusercontent.com/19161231/66803460-a53f6080-ef5a-11e9-81a3-53197402b046.gif)
+
 
 </br> 
 <a href="mailto:dydtjr1994@gmail.com" target="_blank">
